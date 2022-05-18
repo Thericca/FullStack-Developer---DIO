@@ -36,7 +36,15 @@ git push add "origin" http://endereco-do-repositorio.github.com.br
 
 depois de criar o destino
 
-git push origin master para finalizar o envio.
+git push origin master (para finalizar o envio).
+
+
+
+- ALGUNS COMANDOS PARA UTILIZAR
+
+git remote -v (lista os destinos ja criados)
+
+git remote remove origin (limpa o elemento origin para que possa ser atualizado)
 
 
 
