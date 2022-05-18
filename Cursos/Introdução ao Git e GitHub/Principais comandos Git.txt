@@ -1,0 +1,14 @@
+# Principais comandos
+
+git init - cria repositorio.
+
+git add - adiciona ao git arquivos e pastas ainda não rastreados.
+
+git commit - comita todas as alterações.
+
+(git commit -m "mensagem do commit")
+
+git push - envia atualização para servidor remoto.
+
+git pull - traz versão mais atualizada do documento.
+

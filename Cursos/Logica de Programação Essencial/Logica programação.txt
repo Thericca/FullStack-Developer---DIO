@@ -1,0 +1,193 @@
+Logica de programação
+
+metacognição - pensar como voce pensa
+abstração habilidade de concentrar nos aspectos
+essenciais de um contexto
+
+ALGORITIMOS E PSEUDOCODIGOS
+
+Algoritimo - sequencia de passos para resolver
+um problema
+jogo para treinar logica algoritimo
+https://studio.code.org/s/mc/stago/1/puzzle/1
+
+Pseudocodigo - forma generica de se escrever
+algoritimo utilizando linguagem simples, para
+que qualquer leigo entenda
+
+https://www.proprofs.com/games/wolf-sheep-and-cabbage/
+
+
+FLUXOGRAMA - representa o fluxo de dados
+sequencia logica
+--diagrama em bloco
+
+VARIAVEIS - armazena valor de qualquer tipo,
+pode ser alterada
+Declara variaveis antes do algoritimo
+4 tipos - numerica, caracter, alfanumerica ou logica
+
+
+CONSTANTES - imutaveis e ou inalteraveis
+
+app treinar fluxograma 
+http://www.flowgorithm.org
+
+
+TOMADAS DE DECISÕES
+função if if else case
+
+
+EXPRESSÕES ARITMETICAS
+expressões envolvendo constantes e variáveis
+tipos de operadores + - * / ^ %
+
+EXPRESSÕES LITERAIS
+valor literalmente atribuido
+
+EXPRESSÕES RELACIONAIS
+retorna valor logico
+tipo > >= < <= == !=
+
+
+CONCATENANÇÃO
+usada pra unir conteudo de "strings"
+
+
+ESTRUTURA DE REPETIÇÃO
+
+permite executar um comando ou conjunto de
+comandos de acordo com uma condição
+
+
+O QUE SÃO LINGUAGENS DE PROGRAMAÇÃO
+conjunto de instruções e regras usadas para 
+gerar programas (software)
+
+comunicação homem e maquina
+
+Baixo Nivel - Maquina
+Alto Nivel - Linguagem humana
+
+
+PORTUGOL
+Pseudolinguagem em portugues
+IDE portugol
+
+
+DESVIOS CONDICIONAIS
+estruturas de decição
+
+Escolha - Caso - Caso contrario
+_Se _ Senao
+
+_condição dentro de parenteses
+_o que irá fazer entre chaves
+
+BOAS PRATICAS NA PROGRAMAÇÃO
+contrabarra n (\n) quebrar linha
+
+
+LAÇOS DE REPETIÇÃO
+
+cmd FACA {} ENQUANTO()
+
+
+MATRIZES E VETORES
+
+Matriz - coleção de variaveis
+
+Vetores - matriz de unica dimensão
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

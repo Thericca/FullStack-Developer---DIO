@@ -1,0 +1,52 @@
+INTRODUÇÃO AO GIT E AO GITHUB
+
+CLI - comand line interface
+GUI - grafic user interface
+
+comandos windows
+cd - comand directory - ir e voltar pastas
+dir - listar pastas
+mkdir - make directory - criar pasta
+del - apaga arquivo / rmdir - remover diretorio
+cls - clear - limpar tela
+
+
+(bolhas) BLOBS - objetos
+
+
+(arvores) TREES -  blobs
+
+
+COMMITS - 
+
+
+Chaves SSH e Tokens
+
+
+_ CRIANDO REPOSITORIO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

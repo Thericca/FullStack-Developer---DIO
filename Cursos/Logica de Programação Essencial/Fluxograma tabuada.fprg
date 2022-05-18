@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Diego Ricca"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-02 11:35:19 "/>
+        <attribute name="created" value="RGllZ28gUmljY2E7REVTS1RPUC1OUURDNjBQOzIwMjItMDUtMDI7IjExOjE4OjMyICI7MzI0NQ=="/>
+        <attribute name="edited" value="RGllZ28gUmljY2E7REVTS1RPUC1OUURDNjBQOzIwMjItMDUtMDI7IjExOjM1OjE5ICI7MTszMzU3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="multiplicador, multiplicado, resultado" type="Integer" array="False" size=""/>
+            <assign variable="multiplicador" expression="73"/>
+            <assign variable="multiplicado" expression="0"/>
+            <assign variable="resultado" expression="0"/>
+            <while expression="multiplicado&lt;=10">
+                <output expression="&quot;9 vezes &quot; &amp; multiplicado &amp; &quot; &#233; igual a: &quot; &amp; resultado" newline="True"/>
+                <assign variable="multiplicado" expression="multiplicado+1"/>
+                <assign variable="resultado" expression="multiplicado*multiplicador"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
