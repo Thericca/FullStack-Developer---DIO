@@ -1,9 +1,9 @@
 # Spread Fullstack Developer
-## Repositório criado para os cursos.
+## Repositório criado para os materiais dos cursos.
 
 
 
-Curso já finalizados.
+Cursos já finalizados.
 
 - Lógica de Programação Essencial.
 - Sintaxe Básica Javascript.
@@ -11,7 +11,7 @@ Curso já finalizados.
 
 
 
-### Links Úteis
+### Links úteis.
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)    
 
 [Download Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)  
