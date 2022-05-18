@@ -1,4 +1,4 @@
-INTRODUÇÃO AO GIT E AO GITHUB
+- INTRODUÇÃO AO GIT E AO GITHUB
 
 CLI - comand line interface
 GUI - grafic user interface
@@ -22,11 +22,21 @@ COMMITS -
 
 Chaves SSH e Tokens
 
+- CRIANDO REPOSITORIO
 
-_ CRIANDO REPOSITORIO
+git init
 
+git add *
 
+git commit
 
+- EMPURRANDO PARA SERVIDOR REMOTE
+
+git push add "origin" http://endereco-do-repositorio.github.com.br
+
+depois de criar o destino
+
+git push origin master para finalizar o envio.
 
 
 
