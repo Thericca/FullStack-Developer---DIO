@@ -304,7 +304,7 @@ WYSIWYG - What you see is what you get.
 
 Download XAMPP - link adicionado ao README no GitHub.
 
-Após instalação abrir painel de controle, ir em config Apache, selecionar Apache httpd.config, localizar a linha documentroot e alterar para C:/projetos
+Após instalação abrir painel de controle, ir em config Apache, selecionar Apache httpd.config, localizar a linha documentroot e alterar destino para C:/projetos
 
 
 
