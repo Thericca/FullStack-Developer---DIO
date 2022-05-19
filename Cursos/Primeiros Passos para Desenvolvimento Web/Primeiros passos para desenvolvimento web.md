@@ -250,6 +250,70 @@ MySQL, Oracle, protocolos de comunicação, PHP, Java, NodeJs.
 
 Full-Stack - profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw.
 
+### LPs e Termos
+
+Linguagens de programação e Linguagem de marcação.
+
+- Principais linguagens / Termos comuns.
+
+HTML / CSS - Linguagem de marcação.
+
+JavaScript (jQuery, AJAX, diversas libs)
+
+PHP / .NET / ASP / Java / Ruby (on Rails) / Python / Perl / C / C++ / C#
+
+- Termos Comuns.
+
+404 - Erro pagina não existes.
+
+Algoritmo - Sequencia de passos para realizar tarefas.
+
+ALT - Texto alternativo.
+
+API - Funcionalidade adicional
+
+Aplicação - Software, programas....
+
+Biblioteca/dll - recursos para desenvolvimento
+
+Bootstrap - Framework mais utilizado hoje em dia.
+
+Breakpoints - Pontos de limitação
+
+Deploy - Pacote para compilação.
+
+DNS - Nome de site para IP / IP para nome de Site.
+
+DPI - Proporção de pontos na tela.
+
+Framework - Caixa de ferramentas.
+
+FTP - Troca de arquivos.
+
+MVC - Model View Controler.
+
+MVP - Minimo produto viável.
+
+SSL - Camada de segurança.
+
+WYSIWYG - What you see is what you get.
+
+### Aula prática.
+
+- Aplicação teste.
+
+Download XAMPP - link adicionado ao README no GitHub.
+
+Após instalação abrir painel de controle, ir em config Apache, selecionar Apache httpd.config, localizar a linha documentroot e alterar para C:/projetos
+
+
+
+
+
+
+
+
+
 
 
 
